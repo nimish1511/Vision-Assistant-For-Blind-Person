@@ -1,5 +1,3 @@
-
-
 ---
 
 # **Vision Assistant For Blind Person**
